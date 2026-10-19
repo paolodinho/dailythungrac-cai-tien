@@ -1,0 +1,2 @@
+1404 Counter({'ok': 1396, 'ERR': 4, 'ski': 4})
+[('/uploads/images/backup/content/', 'ERR HTTP Error 404: Not Found'), ('/uploads/images/backup/content/Ghe%20phong%20cho%204%20cho.jpg', 'ERR HTTP Error 404: Not Found'), ('/uploads/images/product/may-moc-thiet-bi-lam-sach-cong-nghiep/may-cha-san-ngoi-lai-rd660-11.jpg', 'ERR HTTP Error 404: Not Found'), ('/uploads/images/product/may-moc-thiet-bi-lam-sach-cong-nghiep/mn-v7-scrubber.jpg', 'ERR HTTP Error 404: Not Found')]
